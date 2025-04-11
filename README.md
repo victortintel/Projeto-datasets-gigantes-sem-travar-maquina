@@ -6,7 +6,5 @@ Aqui, apresentamos métodos inteligentes para:<br><br>
 ✅ Ler arquivos grandes em partes (chunks) sem carregar tudo na memória<br>
 ✅ Filtrar dados desnecessários antes do carregamento completo<br>
 ✅ Otimizar tipos de dados para reduzir o uso de memória<br>
-✅ Trabalhar com formatos de arquivo mais eficientes (Parquet, Feather, HDF5)<br>
-✅ Processar dados em streaming (linha por linha, se necessário)<br>
 
 Essas técnicas permitem que você trabalhe com datasets que excedem a memória disponível sem travar sua máquina.<br>
